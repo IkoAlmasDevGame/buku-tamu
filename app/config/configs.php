@@ -1,6 +1,6 @@
 <?php 
 function baseurl($url){
-    $url = "";
+    $url = "https://localhost/buku-tamu/".$url;
     return $url;
 }
 ?>
